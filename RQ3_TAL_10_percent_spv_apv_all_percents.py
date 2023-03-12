@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ3_TAL_10_percent_spv_apv_all_percents.py
 Date : 2022/11/20 19:44
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 将  RQ3_TAL_spv_all_percents.py  与   RQ3_TAL_apv_all_percents.py  的结果执行结果中按10%，20%，...,90%百分比得出的阈值性能
 按HALKP方法格式整理好，便于与TAL方法做比较。
