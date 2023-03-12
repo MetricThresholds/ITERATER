@@ -4,9 +4,6 @@
 @Project : ActiveLearing
 @File : tal_apv.py
 @Author : Yuanqing Mei
-@Time : 2022/11/15 23:55
-@Homepage: http://github.com/meiyuanqing
-@Email: dg1533019@smail.nju.edu.cn
 """
 
 
