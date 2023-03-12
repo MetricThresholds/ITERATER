@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ1_TAL-expert-only_spv.py
 Date : 2022/11/16 11:17
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 TAL-expert-only: the method applies the TAL method only by using the selected modules of the current version labeled
                   by domain experts to train the threshold value of each metric.
