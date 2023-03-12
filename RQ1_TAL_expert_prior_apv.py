@@ -4,9 +4,7 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ1_TAL_expert_prior_apv.py
 Date : 2022/11/16 12:58
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
+
 """
 
 
