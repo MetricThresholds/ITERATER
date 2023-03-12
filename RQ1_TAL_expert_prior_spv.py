@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ1_TAL_expert_prior_spv.py
 Date : 2022/11/16 12:35
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 TAL-expert-prior: the method applies TAL method by using the selected modules labeled of the current version by domain
                   experts and the labeled modules of the prior version to train the threshold value of each metric.
