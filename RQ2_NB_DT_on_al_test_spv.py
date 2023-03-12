@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ2_NB_DT_SVM_on_al_test_spv.py
 Date : 2023/2/15 20:38
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 应用NB_DT方法用前一版本的真实标签数据训练模型，然后在当前版本与TAL相同测试集的数据上预测性能，以方便比较
 """
