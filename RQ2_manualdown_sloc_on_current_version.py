@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ2_manualdown_`sloc`_on_current_version.py
 Date : 2022/11/20 11:09
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 在数据集上，应用SLOC的manualdown方法取中位数阈值，并与T-median方法上做比较。
 
