@@ -3,10 +3,7 @@
 """
 @Project : ActiveLearing
 @File : tal_spv.py
-@Author : Yuanqing Mei
 @Time : 2022/11/15 22:24
-@Homepage: http://github.com/meiyuanqing
-@Email: dg1533019@smail.nju.edu.cn
 
  The threshold-based active learning (TAL) in CVDP framework that consists of the following step:
 (1) The threshold-based active learning method is used to select one unlabeled module that is more informative based on
