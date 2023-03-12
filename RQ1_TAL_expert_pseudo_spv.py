@@ -4,9 +4,6 @@
 Project: Object-oriented-Metric-Thresholds
 File: RQ1_TAL_expert_pseudo_spv.py
 Date : 2022/11/16 13:08
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
 
 TAL-expert-pseudo: the method applies the TAL method only by using the selected modules labeled by domain experts and
                    pseudo labeled modules of the current version to train the threshold value of each metric.
